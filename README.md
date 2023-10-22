@@ -1,3 +1,3 @@
 # Queue-LinkedList-PythonClass
 
-This code is to represent how a queue work using linkelist in python
+This code represents how a queue works using a linked list in Python.
